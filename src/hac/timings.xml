@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<maps>
+  <map name="ratrace">
+    <object>
+      <type>Over shield</type>
+      <frequency>60000</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>90000</frequency>
+    </object>
+  </map>
+
+  <map name="chillout">
+    <object>
+      <type>Over shield</type>
+      <frequency>60880</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>120200</frequency>
+    </object>
+  </map>
+
+  <map name="beavercreek">
+    <object>
+      <type>Over shield</type>
+      <frequency>66870</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>66400</frequency>
+    </object>
+  </map>
+
+  <map name="damnation">
+    <object>
+      <type>Over shield</type>
+      <frequency>60800</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>61820</frequency>
+    </object>
+  </map>
+
+  <map name="bloodgulch">
+    <object>
+      <type>Middle power-up</type>
+      <frequency>182000</frequency>
+    </object>
+    <object>
+      <type>Cave over shield</type>
+      <frequency>66500</frequency>
+    </object>
+  </map>
+
+  <map name="hangemhigh">
+    <object>
+      <type>Over shield</type>
+      <frequency>182020</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>61700</frequency>
+    </object>
+    <object>
+      <type>Rockets</type>
+      <frequency>120320</frequency>
+    </object>
+  </map>
+
+  <map name="infinity">
+    <object>
+      <type>Over shields</type>
+      <frequency>60000</frequency>
+    </object>
+    <object>
+      <type>Portal power-ups</type>
+      <frequency>180000</frequency>
+    </object>
+  </map>
+
+  <map name="carousel">
+    <object>
+      <type>Over shield</type>
+      <frequency>61530</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>61750</frequency>
+    </object>
+  </map>
+
+  <map name="prisoner">
+    <object>
+      <type>Over shield</type>
+      <frequency>61500</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>61100</frequency>
+    </object>
+  </map>
+
+  <map name="ratrace">
+    <object>
+      <type>Over shield</type>
+      <frequency>66020</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>90000</frequency>
+    </object>
+  </map>
+
+  <map name="sidewinder">
+    <object>
+      <type>Cage power-ups</type>
+      <frequency>69000</frequency>
+    </object>
+    <object>
+      <type>Over shields</type>
+      <frequency>69000</frequency>
+    </object>
+    <object>
+      <type>Rockets</type>
+      <frequency>83000</frequency>
+    </object>
+  </map>
+
+  <map name="timberland">
+    <object>
+      <type>All power-ups</type>
+      <frequency>67200</frequency>
+    </object>
+    <object>
+      <type>Rockets</type>
+      <frequency>120500</frequency>
+    </object>
+    <object>
+      <type>FRGs</type>
+      <frequency>120500</frequency>
+    </object>
+  </map>
+
+  <map name="wizard">
+    <object>
+      <type>Over shield</type>
+      <frequency>65740</frequency>
+    </object>
+    <object>
+      <type>Active camouflage</type>
+      <frequency>65930</frequency>
+    </object>
+  </map>
+
+  <map name="dangercanyon">
+    <object>
+      <type>Cliff over shield</type>
+      <frequency>69000</frequency>
+    </object>
+    <object>
+      <type>Low power-up</type>
+      <frequency>182000</frequency>
+    </object>
+    <object>
+      <type>FRGs</type>
+      <frequency>123000</frequency>
+    </object>
+    <object>
+      <type>Rockets</type>
+      <frequency>113000</frequency>
+    </object>
+  </map>
+</maps>
