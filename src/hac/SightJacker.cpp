@@ -44,12 +44,6 @@ void SightJacker::enable() {
 		return;
 	}
 
-	if(EngineState::checkState(EngineState::SCRIM_MODE)) {
-		HUDMessage(Language::GetString(SJ_NOPE));
-		PlayMPSound(_multiplayer_sound_flag_failure);
-		return;
-	}
-
 	HUDMessage(Language::GetString(SJ_ENABLE));
 	PlayMPSound(_multiplayer_sound_countdown_timer_end);
 
